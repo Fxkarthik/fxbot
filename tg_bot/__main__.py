@@ -24,7 +24,7 @@ PM_START_TEXT = """
 ഞാൻ ഒരു ɢʀᴏᴜᴩ ᴍᴀɴᴀɢɪɴɢ ʙᴏᴛ ആണ്, എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ നോക്കി സമയം കളയണ്ട, എന്നെ @fx_karthik ഗ്രൂപ്പിൽ മാത്രമേ ആഡ് ചെയ്യാൻ കഴിയൂ😁...!!!
 """
 
-HELP_STRINGS =off """
+HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
